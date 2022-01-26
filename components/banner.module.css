@@ -2,5 +2,17 @@
     
 }
 .title{
+    color: white;
     
+}
+.subtitle{
+    color:rgb(67, 28, 238);
+}
+.title2{
+    color:blue;
+}
+.button{
+    color: azure;
+    background-color:lightpink;
+    padding: 7px;
 }
